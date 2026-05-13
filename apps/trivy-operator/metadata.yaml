@@ -1,0 +1,5 @@
+---
+chartRegistry: https://aquasecurity.github.io/helm-charts
+chartName: trivy-operator
+chartVersion: 0.32.1
+artifactName: trivy-operator

@@ -1,0 +1,5 @@
+---
+chartRegistry: https://helm.cilium.io
+chartName: tetragon
+chartVersion: 1.7.0
+artifactName: tetragon

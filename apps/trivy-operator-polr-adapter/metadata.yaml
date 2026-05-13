@@ -1,0 +1,5 @@
+---
+chartRegistry: https://fjogeleit.github.io/helm-charts
+chartName: trivy-operator-polr-adapter
+chartVersion: 0.11.2
+artifactName: trivy-operator-polr-adapter

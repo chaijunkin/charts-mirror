@@ -1,0 +1,5 @@
+---
+chartRegistry: https://kyverno.github.io/policy-reporter
+chartName: policy-reporter
+chartVersion: 3.7.4
+artifactName: policy-reporter
