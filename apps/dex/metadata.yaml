@@ -1,5 +1,5 @@
 ---
 chartRegistry: https://charts.dexidp.io
 chartName: dex
-chartVersion: 0.24.0
+chartVersion: 0.24.1
 artifactName: dex
