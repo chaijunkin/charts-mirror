@@ -1,5 +1,5 @@
 ---
 chartRegistry: https://charts.releases.teleport.dev/
 chartName: teleport-cluster
-chartVersion: 18.8.3
+chartVersion: 18.9.0
 artifactName: teleport-cluster
