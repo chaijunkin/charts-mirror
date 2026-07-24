@@ -1,5 +1,5 @@
 ---
 chartRegistry: https://aquasecurity.github.io/helm-charts
 chartName: trivy-operator
-chartVersion: 0.33.2
+chartVersion: 0.34.0
 artifactName: trivy-operator
